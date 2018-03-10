@@ -36,4 +36,4 @@ You can use [Git Bash](https://git-scm.com/downloads) for Windows 2.11 and above
 ## Contributing
 
 If you have suggestions or improvements, feel free to open a pull request and
-get the conversation started!# typescript-project-init
+get the conversation started!
